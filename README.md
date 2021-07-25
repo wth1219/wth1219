@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wth1219
 - 👀 I’m interested in studing programming and making games
-- 🌱 I’m currently learning C, C++, Unity
+- 🌱 I’m currently learning C, C++, C#, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me                                → mrhoho1219@gmail.com ←
 
